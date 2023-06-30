@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "408838977004",
+    "firebase_url": "https://minigamestation-eef4f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "minigamestation-eef4f",
+    "storage_bucket": "minigamestation-eef4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408838977004:android:91f0152b8c4f450f947cc9",
+        "android_client_info": {
+          "package_name": "com.example.minigamestation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408838977004-qdoh57pfrke6em4p9a5n2mrqfh470egh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoHxmljlEf1aQQpw7ttYFg5igrCzo9Iug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408838977004-qdoh57pfrke6em4p9a5n2mrqfh470egh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
